@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Namelist-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Namelist-app/static/js/main.7cdb8c29.chunk.js",
+    "main.js.map": "/Namelist-app/static/js/main.7cdb8c29.chunk.js.map",
+    "runtime-main.js": "/Namelist-app/static/js/runtime-main.61012b4f.js",
+    "runtime-main.js.map": "/Namelist-app/static/js/runtime-main.61012b4f.js.map",
+    "static/js/2.04d19dde.chunk.js": "/Namelist-app/static/js/2.04d19dde.chunk.js",
+    "static/js/2.04d19dde.chunk.js.map": "/Namelist-app/static/js/2.04d19dde.chunk.js.map",
+    "static/js/3.10829c2c.chunk.js": "/Namelist-app/static/js/3.10829c2c.chunk.js",
+    "static/js/3.10829c2c.chunk.js.map": "/Namelist-app/static/js/3.10829c2c.chunk.js.map",
+    "index.html": "/Namelist-app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Namelist-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.04d19dde.chunk.js.LICENSE.txt": "/Namelist-app/static/js/2.04d19dde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61012b4f.js",
+    "static/js/2.04d19dde.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7cdb8c29.chunk.js"
+  ]
+}
